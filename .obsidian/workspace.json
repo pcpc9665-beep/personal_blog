@@ -27,12 +27,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "New Concepts/Convention over Configuration(nextJs).md",
-                "bFile": "New Concepts/Convention over Configuration(nextJs).md",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Convention over Configuration(nextJs)  (Working Tree)"
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ],
@@ -211,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45e7da38b68fcc58",
+  "active": "1a43454b7ffb558f",
   "lastOpenFiles": [
     "New Concepts/Convention over Configuration(nextJs).md",
     "Work Journal/Work Journal Day1 (08-08-26).md",
