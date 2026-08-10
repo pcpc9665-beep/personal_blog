@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problem Handling/JS Object how handle large data set.md",
+                "file": "Work Journal/Work Journal Day3(10-08-26).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JS Object how handle large data set"
+              "title": "Work Journal Day3(10-08-26)"
             }
           }
         ]
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problem Handling/JS Object how handle large data set.md",
+                "file": "Work Journal/Work Journal Day3(10-08-26).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,8 +199,9 @@
   },
   "active": "ea96c662253f7931",
   "lastOpenFiles": [
-    "New Concepts/Object(JS) and (TS).md",
     "Problem Handling/JS Object how handle large data set.md",
+    "Work Journal/Work Journal Day3(10-08-26).md",
+    "New Concepts/Object(JS) and (TS).md",
     "New Concepts/Convention over Configuration.md",
     "New Concepts/Convention over Configuration(nextJs).md",
     "CS/CS Concepts.md",
@@ -227,7 +228,6 @@
     "Languages/Express.md",
     "2026-08-08.md",
     "Languages/NodeJS.md",
-    "Languages/React.md",
     "Languages",
     "New Concepts",
     "Work Journal",
