@@ -25,14 +25,14 @@
             "id": "45e7da38b68fcc58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "New Concepts/Convention over Configuration(nextJs).md",
-                "mode": "source",
-                "source": false
+                "aFile": "New Concepts/Convention over Configuration(nextJs).md",
+                "bFile": "New Concepts/Convention over Configuration(nextJs).md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Convention over Configuration(nextJs)"
+              "icon": "diff",
+              "title": "Diff: Convention over Configuration(nextJs)  (Working Tree)"
             }
           }
         ],
@@ -181,13 +181,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "1a43454b7ffb558f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,18 +207,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "45e7da38b68fcc58",
   "lastOpenFiles": [
+    "New Concepts/Convention over Configuration(nextJs).md",
     "Work Journal/Work Journal Day1 (08-08-26).md",
     "Work Journal/Work Journal Day2(09-09-26).md",
     "New Concepts/Object(JS) and (TS).md",
     "Problem Handling/JS Object how large data will handle.md",
     "Untitled.md",
     "Problem Handling",
-    "New Concepts/Convention over Configuration(nextJs).md",
     "New Concepts/Data Sanitization(Data Transfer Objects or DTOs).md",
     "Personal_Journal/Day 3(10-08-26).md",
     "Personal_Journal/Day 2 (09-08-26).md",
