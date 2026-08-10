@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "27efa51e8a8e1ede",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c8faf84ff9559fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea96c662253f7931",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Concepts/Object(JS) and (TS).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Object(JS) and (TS)"
+            }
+          },
+          {
+            "id": "45e7da38b68fcc58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Concepts/Convention over Configuration(nextJs).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Convention over Configuration(nextJs)"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66e35e17229eac6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0027a0dea020354f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "792b2635b714c61f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9a25392b66fdd19e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "062ed4fa73e7c433",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "90ad9fd9bccd8405",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb787110acfd4df1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9b08e802b7aed49",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ddeab8fbc66b126f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "892898e12bfe8fcb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "52b43f232df66c4a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f9d9c2b7e0a08c05",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "45e7da38b68fcc58",
+  "lastOpenFiles": [
+    "Work Journal/Work Journal Day1 (08-08-26).md",
+    "Work Journal/Work Journal Day2(09-09-26).md",
+    "New Concepts/Object(JS) and (TS).md",
+    "Problem Handling/JS Object how large data will handle.md",
+    "Untitled.md",
+    "Problem Handling",
+    "New Concepts/Convention over Configuration(nextJs).md",
+    "New Concepts/Data Sanitization(Data Transfer Objects or DTOs).md",
+    "Personal_Journal/Day 3(10-08-26).md",
+    "Personal_Journal/Day 2 (09-08-26).md",
+    "Languages/TypeScript.md",
+    "Languages/JavaScript.md",
+    "Languages/Zod.md",
+    "Languages/NextJS.md",
+    "Languages/SQL.md",
+    "CS",
+    "Languages/Untitled.canvas",
+    "Languages/Prisma.md",
+    "Day 3(10-08-26.md",
+    "Languages/MongoDB.md",
+    "Languages/CSS.md",
+    "Languages/HTML.md",
+    "Languages/Express.md",
+    "2026-08-08.md",
+    "Languages/NodeJS.md",
+    "Languages/React.md",
+    "Languages",
+    "New Concepts",
+    "Personal_Journal/Day 1(08-08-2026).md",
+    "Work Journal",
+    "create a link.md",
+    "Welcome.md",
+    "Personal_Journal"
+  ]
+}

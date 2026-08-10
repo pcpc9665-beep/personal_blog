@@ -1,0 +1,2 @@
+
+[[Object(JS) and (TS)]]
