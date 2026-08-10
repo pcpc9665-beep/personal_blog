@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Concepts/Object(JS) and (TS).md",
+                "file": "New Concepts/Convention over Configuration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Object(JS) and (TS)"
+              "title": "Convention over Configuration"
             }
           }
         ]
@@ -159,6 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "New Concepts/Convention over Configuration.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,13 +197,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "792b2635b714c61f",
+  "active": "ea96c662253f7931",
   "lastOpenFiles": [
-    "Untitled.md",
     "New Concepts/Convention over Configuration(nextJs).md",
+    "New Concepts/Convention over Configuration.md",
+    "CS/CS Concepts.md",
+    "Personal_Journal/Day 1(08-08-2026).md",
+    "New Concepts/Object(JS) and (TS).md",
+    "Untitled.md",
     "Work Journal/Work Journal Day1 (08-08-26).md",
     "Work Journal/Work Journal Day2(09-09-26).md",
-    "New Concepts/Object(JS) and (TS).md",
     "Problem Handling/JS Object how large data will handle.md",
     "Problem Handling",
     "New Concepts/Data Sanitization(Data Transfer Objects or DTOs).md",
@@ -226,10 +230,7 @@
     "Languages/React.md",
     "Languages",
     "New Concepts",
-    "Personal_Journal/Day 1(08-08-2026).md",
     "Work Journal",
-    "create a link.md",
-    "Welcome.md",
     "Personal_Journal"
   ]
 }
