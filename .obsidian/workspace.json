@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work Journal/Work Journal Day2(09-09-26).md",
+                "file": "New Concepts/Convention over Configuration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Work Journal Day2(09-09-26)"
+              "title": "Convention over Configuration"
             }
           }
         ]
@@ -199,9 +199,10 @@
   },
   "active": "ea96c662253f7931",
   "lastOpenFiles": [
-    "Work Journal/Work Journal Day1 (08-08-26).md",
     "Work Journal/Work Journal Day3(10-08-26).md",
+    "Personal_Journal/Day 4 (12-08-26).md",
     "Work Journal/Work Journal Day2(09-09-26).md",
+    "Work Journal/Work Journal Day1 (08-08-26).md",
     "Problem Handling/JS Object how handle large data set.md",
     "New Concepts/Object(JS) and (TS).md",
     "New Concepts/Convention over Configuration.md",
@@ -227,7 +228,6 @@
     "Languages/HTML.md",
     "Languages/Express.md",
     "2026-08-08.md",
-    "Languages/NodeJS.md",
     "Languages",
     "New Concepts",
     "Work Journal",
