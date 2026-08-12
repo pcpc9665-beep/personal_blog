@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Concepts/Convention over Configuration.md",
+                "file": "CS/CS Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Convention over Configuration"
+              "title": "CS Concepts"
             }
           }
         ]
@@ -199,19 +199,20 @@
   },
   "active": "ea96c662253f7931",
   "lastOpenFiles": [
+    "New Concepts/Convention over Configuration.md",
+    "New Concepts/Data Sanitization(Data Transfer Objects or DTOs).md",
+    "CS/CS Concepts.md",
+    "New Concepts/software design paradigm.md",
+    "New Concepts/Convention over Configuration(nextJs).md",
     "Work Journal/Work Journal Day3(10-08-26).md",
     "Personal_Journal/Day 4 (12-08-26).md",
     "Work Journal/Work Journal Day2(09-09-26).md",
     "Work Journal/Work Journal Day1 (08-08-26).md",
     "Problem Handling/JS Object how handle large data set.md",
     "New Concepts/Object(JS) and (TS).md",
-    "New Concepts/Convention over Configuration.md",
-    "New Concepts/Convention over Configuration(nextJs).md",
-    "CS/CS Concepts.md",
     "Personal_Journal/Day 1(08-08-2026).md",
     "Untitled.md",
     "Problem Handling",
-    "New Concepts/Data Sanitization(Data Transfer Objects or DTOs).md",
     "Personal_Journal/Day 3(10-08-26).md",
     "Personal_Journal/Day 2 (09-08-26).md",
     "Languages/TypeScript.md",
@@ -227,7 +228,6 @@
     "Languages/CSS.md",
     "Languages/HTML.md",
     "Languages/Express.md",
-    "2026-08-08.md",
     "Languages",
     "New Concepts",
     "Work Journal",

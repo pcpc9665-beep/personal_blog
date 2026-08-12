@@ -1,6 +1,6 @@
 
 
-**Convention over Configuration (CoC)** എന്നത് ഒരു software design paradigm ആണ്. Frameworks ഉപയോഗിക്കുമ്പോൾ developer-ന്റെ ജോലിഭാരം കുറയ്ക്കുന്നതിനും, തീരുമാനങ്ങൾ എടുക്കുന്നത് എളുപ്പമാക്കുന്നതിനും വേണ്ടിയാണ് ഇത് പ്രധാനമായും ഉപയോഗിക്കുന്നത്.
+**Convention over Configuration (CoC)** എന്നത് ഒരു [[software design paradigm]] ആണ്. Frameworks ഉപയോഗിക്കുമ്പോൾ developer-ന്റെ ജോലിഭാരം കുറയ്ക്കുന്നതിനും, തീരുമാനങ്ങൾ എടുക്കുന്നത് എളുപ്പമാക്കുന്നതിനും വേണ്ടിയാണ് ഇത് പ്രധാനമായും ഉപയോഗിക്കുന്നത്.
  
 ലളിതമായി പറഞ്ഞാൽ, ഒരു framework മുൻകൂട്ടി നിശ്ചയിച്ച ചില rules അല്ലെങ്കിൽ "defaults" (Conventions) വെച്ചിട്ടുണ്ടാകും. നമ്മൾ അത് അതേപടി follow ചെയ്താൽ, ഒരുപാട് configuration files-ഉം boilerplate code-ഉം എഴുതുന്നത് ഒഴിവാക്കാം. നമുക്ക് ആ default രീതി മാറ്റണം എന്ന് നിർബന്ധം ഉണ്ടെങ്കിൽ മാത്രം അതിനുള്ള configuration എഴുതിയാൽ മതി.
 ### ഒരു Real-World Analogy:
