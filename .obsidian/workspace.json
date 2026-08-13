@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CS Concepts.md",
+                "file": "Personal_Journal/Day5(13-08-26).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CS Concepts"
+              "title": "Day5(13-08-26)"
             }
           }
         ]
@@ -199,9 +199,10 @@
   },
   "active": "ea96c662253f7931",
   "lastOpenFiles": [
+    "Personal_Journal/Day5(13-08-26).md",
+    "CS/CS Concepts.md",
     "New Concepts/Convention over Configuration.md",
     "New Concepts/Data Sanitization(Data Transfer Objects or DTOs).md",
-    "CS/CS Concepts.md",
     "New Concepts/software design paradigm.md",
     "New Concepts/Convention over Configuration(nextJs).md",
     "Work Journal/Work Journal Day3(10-08-26).md",
@@ -227,7 +228,6 @@
     "Languages/MongoDB.md",
     "Languages/CSS.md",
     "Languages/HTML.md",
-    "Languages/Express.md",
     "Languages",
     "New Concepts",
     "Work Journal",
