@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal_Journal/Day 6(15-08-26).md",
+                "file": "Work Journal/Work Journal Day4(17-08-2026).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 6(15-08-26)"
+              "title": "Work Journal Day4(17-08-2026)"
             }
           }
         ]
@@ -199,8 +199,9 @@
   },
   "active": "ea96c662253f7931",
   "lastOpenFiles": [
-    "Personal_Journal/Day 5(13-08-26).md",
     "Personal_Journal/Day 6(15-08-26).md",
+    "Work Journal/Work Journal Day4(17-08-2026).md",
+    "Personal_Journal/Day 5(13-08-26).md",
     "Work Journal/Work Journal Day3(10-08-26).md",
     "CS/CS Concepts.md",
     "Personal_Journal/Day 3(10-08-26).md",
@@ -227,7 +228,6 @@
     "Languages/Prisma.md",
     "Day 3(10-08-26.md",
     "Languages/MongoDB.md",
-    "Languages/CSS.md",
     "Languages",
     "New Concepts",
     "Work Journal",
