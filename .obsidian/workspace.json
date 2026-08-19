@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/JavaScript.md",
+                "file": "New Concepts/closure + separate function execution contexts..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaScript"
+              "title": "closure + separate function execution contexts."
             }
           }
         ]
@@ -199,6 +199,7 @@
   },
   "active": "ea96c662253f7931",
   "lastOpenFiles": [
+    "Languages/JavaScript.md",
     "New Concepts/closure + separate function execution contexts..md",
     "New Concepts/usePathname.md",
     "Work Journal/Work Journal Day4(17-08-2026).md",
@@ -221,7 +222,6 @@
     "Untitled.md",
     "Problem Handling",
     "Languages/TypeScript.md",
-    "Languages/JavaScript.md",
     "Languages/Zod.md",
     "Languages/NextJS.md",
     "Languages/SQL.md",
