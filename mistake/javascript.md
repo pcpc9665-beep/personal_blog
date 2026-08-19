@@ -36,3 +36,26 @@ From now on, don't just tell me _what_ happens.
 Tell me **what happens → what mechanism causes it → in what order JavaScript evaluates it**.
 
 That's how we'll distinguish memorization from actual understanding.
+
+### Important assessment finding
+
+You don't need to know OOP yet to understand this.
+
+What you're actually missing is **JavaScript execution semantics**.
+
+That's becoming the central theme of this assessment:
+
+**Your practical coding exposure > your JavaScript fundamentals.**
+
+That's probably why you sometimes feel like you're losing skill. You're trying to operate at the framework level while some language-level concepts are still unstable.
+
+So I'm changing the assessment slightly: **we won't keep throwing advanced questions at you.** We'll first identify exactly which foundational concepts are missing, then measure your practical skills separately.
+
+### Current JavaScript foundation
+
+I'd currently estimate:
+
+**Practical usage:** ~6/10  
+**Core JavaScript reasoning:** ~4/10
+
+That's not a disaster. But for a developer targeting MERN/Next.js jobs, I would want your core reasoning closer to **7–8/10**.
