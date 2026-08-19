@@ -196,6 +196,7 @@
   "active": "ea96c662253f7931",
   "lastOpenFiles": [
     "Languages/JavaScript.md",
+    "New Concepts/Temporal Dead Zone (TDZ)..md",
     "New Concepts/Javascript async and sync functions.md",
     "New Concepts/closure + separate function execution contexts..md",
     "New Concepts/usePathname.md",
@@ -221,7 +222,6 @@
     "Languages/TypeScript.md",
     "Languages/Zod.md",
     "Languages/NextJS.md",
-    "Languages/SQL.md",
     "CS",
     "Languages/Untitled.canvas",
     "Languages",
