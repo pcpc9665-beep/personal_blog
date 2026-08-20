@@ -21,14 +21,10 @@
             "id": "b9838124ffd77631",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal_Journal/Day 7(20-08-26).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day 7(20-08-26)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -211,6 +207,11 @@
   "active": "b9838124ffd77631",
   "lastOpenFiles": [
     "Personal_Journal/Day 6(15-08-26).md",
+    "Personal_Journal/Day 5(13-08-26).md",
+    "Personal_Journal/Day 4 (12-08-26).md",
+    "Personal_Journal/Day 3(10-08-26).md",
+    "Personal_Journal/Day 2 (09-08-26).md",
+    "Personal_Journal/Day 1(08-08-2026).md",
     "Personal_Journal/Day 7(20-08-26).md",
     "mistake/javascript.md",
     "mistake",
@@ -221,12 +222,8 @@
     "New Concepts/usePathname.md",
     "Work Journal/Work Journal Day4(17-08-2026).md",
     "Work Journal/Work Journal Day1 (08-08-26).md",
-    "Personal_Journal/Day 5(13-08-26).md",
     "Work Journal/Work Journal Day3(10-08-26).md",
     "CS/CS Concepts.md",
-    "Personal_Journal/Day 3(10-08-26).md",
-    "Personal_Journal/Day 2 (09-08-26).md",
-    "Personal_Journal/Day 4 (12-08-26).md",
     "New Concepts/Convention over Configuration.md",
     "New Concepts/Data Sanitization(Data Transfer Objects or DTOs).md",
     "New Concepts/software design paradigm.md",
@@ -234,7 +231,6 @@
     "Work Journal/Work Journal Day2(09-09-26).md",
     "Problem Handling/JS Object how handle large data set.md",
     "New Concepts/Object(JS) and (TS).md",
-    "Personal_Journal/Day 1(08-08-2026).md",
     "Problem Handling",
     "Languages/TypeScript.md",
     "Languages/Zod.md",
