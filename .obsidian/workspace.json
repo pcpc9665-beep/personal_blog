@@ -21,10 +21,14 @@
             "id": "b9838124ffd77631",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "SSH configuration/Setup SSH.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Setup SSH"
             }
           }
         ],
@@ -206,6 +210,8 @@
   },
   "active": "b9838124ffd77631",
   "lastOpenFiles": [
+    "SSH configuration/Setup SSH.md",
+    "SSH configuration",
     "Personal_Journal/Day 6(15-08-26).md",
     "Personal_Journal/Day 5(13-08-26).md",
     "Personal_Journal/Day 4 (12-08-26).md",
@@ -233,7 +239,6 @@
     "New Concepts/Object(JS) and (TS).md",
     "Problem Handling",
     "Languages/TypeScript.md",
-    "Languages/Zod.md",
     "CS",
     "Languages/Untitled.canvas",
     "Languages",
