@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1f1404109371834f",
+        "id": "d4775e0e2fdd10df",
         "type": "tabs",
         "children": [
           {
-            "id": "14ce3c3e4137b284",
+            "id": "4147d0740ed5f2f9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -194,8 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14ce3c3e4137b284",
+  "active": "4147d0740ed5f2f9",
   "lastOpenFiles": [
+    "mistake/javascript.md",
     "SSH configuration/Setup SSH.md",
     "Untitled.canvas",
     "New Concepts/Object(JS) and (TS).md",
@@ -215,7 +216,6 @@
     "Personal_Journal/Day 2 (09-08-26).md",
     "Personal_Journal/Day 1(08-08-2026).md",
     "Personal_Journal/Day 7(20-08-26).md",
-    "mistake/javascript.md",
     "mistake",
     "Languages/JavaScript.md",
     "Work Journal/Work Journal Day4(17-08-2026).md",
