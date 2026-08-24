@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "90ad9fd9bccd8405",
@@ -198,8 +197,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4147d0740ed5f2f9",
+  "active": "792b2635b714c61f",
   "lastOpenFiles": [
+    "Speaking Language/English",
+    "Speaking Language",
     "Personal_Journal/Day 7(20-08-26).md",
     "Personal_Journal/Day 8(21-08-26).md",
     "mistake/javascript.md",
@@ -222,17 +223,16 @@
     "Personal_Journal/Day 2 (09-08-26).md",
     "Personal_Journal/Day 1(08-08-2026).md",
     "mistake",
-    "Languages/JavaScript.md",
+    "Programming Languages/JavaScript.md",
     "Work Journal/Work Journal Day4(17-08-2026).md",
     "Work Journal/Work Journal Day1 (08-08-26).md",
     "Work Journal/Work Journal Day3(10-08-26).md",
     "CS/CS Concepts.md",
     "Work Journal/Work Journal Day2(09-09-26).md",
-    "Problem Handling/JS Object how handle large data set.md",
     "Problem Handling",
     "CS",
     "Languages/Untitled.canvas",
-    "Languages",
+    "Programming Languages",
     "New Concepts",
     "Work Journal",
     "Personal_Journal"
