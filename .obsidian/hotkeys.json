@@ -1,0 +1,11 @@
+{
+  "list-table-converter:list-to-table-convert": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ]
+}

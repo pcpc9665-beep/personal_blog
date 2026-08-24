@@ -10,11 +10,14 @@ Present
 Past
 Future
 4 forms for each
-	Present	Past	Future
-Simple	| send	I sent	I will send
-Continuous	I am sending	I was sending	I will be sending
-Perfect	I have sent	I had sent	I will have sent
-Perfect Continuous	I have been sending	I had been sending	I will have been sending
+|                                                                                    |     |
+| ---------------------------------------------------------------------------------- | --- |
+| 	Present	Past	Future                                                               |     |
+| Simple	| send	I sent	I will send                                                   |     |
+| Continuous	I am sending	I was sending	I will be sending                            |     |
+| Perfect	I have sent	I had sent	I will have sent                                    |     |
+| Perfect Continuous	I have been sending	I had been sending	I will have been sending |     |
+
 
 That gives you the commonly taught 12 English tenses:
 
