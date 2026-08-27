@@ -2,3 +2,9 @@
 [[software design paradigm]]
 [[Data Sanitization(Data Transfer Objects or DTOs)]]
 
+# Project Methods
+
+[[Agile Method]]
+
+
+
