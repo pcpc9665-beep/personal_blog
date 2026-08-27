@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Concepts/Triggers and Events.md",
+                "file": "SSH configuration/Setup SSH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Triggers and Events"
+              "title": "Setup SSH"
             }
           }
         ]
@@ -200,8 +200,9 @@
   },
   "active": "757e594ed3e93401",
   "lastOpenFiles": [
-    "CS/CS Concepts.md",
+    "Webb.md",
     "New Concepts/Triggers and Events.md",
+    "CS/CS Concepts.md",
     "New Concepts/Testing Automation.md",
     "New Concepts/CI-CD pipeline.md",
     "New Concepts/Agile Method.md",
@@ -230,7 +231,6 @@
     "Personal_Journal/Day 6(15-08-26).md",
     "Personal_Journal/Day 5(13-08-26).md",
     "Personal_Journal/Day 4 (12-08-26).md",
-    "Personal_Journal/Day 3(10-08-26).md",
     "mistake",
     "Problem Handling",
     "CS",
