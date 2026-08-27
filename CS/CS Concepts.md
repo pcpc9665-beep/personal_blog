@@ -7,4 +7,6 @@
 [[Agile Method]]
 
 
+# Automate Concepts
 
+[[CI-CD pipeline]]
