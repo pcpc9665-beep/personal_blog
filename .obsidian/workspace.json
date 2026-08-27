@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "90f685dee6db37b0",
+        "id": "d7ec8e8654e6bb09",
         "type": "tabs",
         "children": [
           {
-            "id": "adac27ce2ed1d810",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "574bfa320b58155c",
+            "id": "757e594ed3e93401",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -27,8 +17,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 271.0999755859375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f0d3060dc3cba7c",
+  "active": "757e594ed3e93401",
   "lastOpenFiles": [
     "SSH configuration/Setup SSH.md",
     "New Concept for understand Speaking Languages/Different Tenses of English.md",
