@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Concepts/Testing Automation.md",
+                "file": "New Concepts/Triggers and Events.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testing Automation"
+              "title": "Triggers and Events"
             }
           }
         ]
@@ -198,9 +198,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f0d3060dc3cba7c",
+  "active": "757e594ed3e93401",
   "lastOpenFiles": [
     "CS/CS Concepts.md",
+    "New Concepts/Triggers and Events.md",
     "New Concepts/Testing Automation.md",
     "New Concepts/CI-CD pipeline.md",
     "New Concepts/Agile Method.md",
@@ -230,7 +231,6 @@
     "Personal_Journal/Day 5(13-08-26).md",
     "Personal_Journal/Day 4 (12-08-26).md",
     "Personal_Journal/Day 3(10-08-26).md",
-    "Personal_Journal/Day 2 (09-08-26).md",
     "mistake",
     "Problem Handling",
     "CS",
