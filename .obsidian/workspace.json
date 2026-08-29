@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stockpilot_review.md",
+                "file": "Programming Languages/JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "stockpilot_review"
+              "title": "JavaScript"
             }
           }
         ]
@@ -200,8 +200,9 @@
   },
   "active": "757e594ed3e93401",
   "lastOpenFiles": [
-    "hggggg.md",
+    "New Concepts/Js Closure.md",
     "stockpilot_review.md",
+    "hggggg.md",
     "SSH configuration/Setup SSH.md",
     "Webb.md",
     "New Concepts/Triggers and Events.md",
@@ -230,7 +231,6 @@
     "New Concepts/Temporal Dead Zone (TDZ)..md",
     "New Concepts/Convention over Configuration(nextJs).md",
     "SSH configuration",
-    "Personal_Journal/Day 6(15-08-26).md",
     "mistake",
     "Problem Handling",
     "CS",
