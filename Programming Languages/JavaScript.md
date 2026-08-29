@@ -6,3 +6,4 @@
 # Important Topics 
 
 [[Js Closure]]
+[[Variables and Scope of JS]]

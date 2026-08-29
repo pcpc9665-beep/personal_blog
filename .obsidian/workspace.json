@@ -200,6 +200,8 @@
   },
   "active": "757e594ed3e93401",
   "lastOpenFiles": [
+    "New Concepts/Variables and Scope of JS.md",
+    "Programming Languages/JavaScript.md",
     "New Concepts/Js Closure.md",
     "stockpilot_review.md",
     "hggggg.md",
@@ -228,8 +230,6 @@
     "New Concepts/closure + separate function execution contexts..md",
     "New Concepts/Data Sanitization(Data Transfer Objects or DTOs).md",
     "New Concepts/usePathname.md",
-    "New Concepts/Temporal Dead Zone (TDZ)..md",
-    "New Concepts/Convention over Configuration(nextJs).md",
     "SSH configuration",
     "mistake",
     "Problem Handling",
