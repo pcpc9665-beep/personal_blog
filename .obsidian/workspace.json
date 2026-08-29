@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Concepts/Variables and Scope of JS.md",
+                "file": "Useful commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Variables and Scope of JS"
+              "title": "Useful commands"
             }
           }
         ]
@@ -200,8 +200,9 @@
   },
   "active": "757e594ed3e93401",
   "lastOpenFiles": [
-    "Programming Languages/JavaScript.md",
     "New Concepts/Variables and Scope of JS.md",
+    "Useful commands.md",
+    "Programming Languages/JavaScript.md",
     "New Concepts/Js Closure.md",
     "stockpilot_review.md",
     "hggggg.md",
@@ -229,7 +230,6 @@
     "New Concepts/Convention over Configuration.md",
     "New Concepts/closure + separate function execution contexts..md",
     "New Concepts/Data Sanitization(Data Transfer Objects or DTOs).md",
-    "New Concepts/usePathname.md",
     "SSH configuration",
     "mistake",
     "Problem Handling",
