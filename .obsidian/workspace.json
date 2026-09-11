@@ -11,13 +11,28 @@
             "id": "5675e48caa5495f4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CS/CS Concepts.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CS Concepts"
+            }
+          },
+          {
+            "id": "3ab8b78e766b2268",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,10 +209,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a43454b7ffb558f",
+  "active": "3ab8b78e766b2268",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "New Concepts/System Design.md",
+    "CS/CS Concepts.md",
     "Improving concepts/PG_corn.md",
+    "Untitled 1.md",
     "mistake/javascript.md",
     "Improving concepts",
     "Useful commands.md",
@@ -209,7 +226,6 @@
     "SSH configuration/Setup SSH.md",
     "Webb.md",
     "New Concepts/Triggers and Events.md",
-    "CS/CS Concepts.md",
     "New Concepts/Testing Automation.md",
     "New Concepts/CI-CD pipeline.md",
     "New Concepts/Agile Method.md",
@@ -226,7 +242,6 @@
     "New Concepts/Object(JS) and (TS).md",
     "New Concepts/Javascript async and sync functions.md",
     "New Concepts/software design paradigm.md",
-    "New Concepts/Convention over Configuration.md",
     "SSH configuration",
     "mistake",
     "Problem Handling",
