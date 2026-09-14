@@ -194,8 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f0d3060dc3cba7c",
+  "active": "1a43454b7ffb558f",
   "lastOpenFiles": [
+    "New Concepts/Convention over Configuration.md",
     "New Concepts/System Design.md",
     "CS/CS Concepts.md",
     "Improving concepts/PG_corn.md",
@@ -226,7 +227,6 @@
     "Untitled.canvas",
     "New Concepts/Object(JS) and (TS).md",
     "New Concepts/Javascript async and sync functions.md",
-    "New Concepts/software design paradigm.md",
     "SSH configuration",
     "mistake",
     "Problem Handling",
