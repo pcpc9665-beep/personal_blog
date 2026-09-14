@@ -1,1 +1,0 @@
-And this matters because later you'll encounter closures in React hooks, callbacks, middleware, event handlers, memoization, and asynchronous code.
