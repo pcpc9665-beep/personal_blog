@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal_Journal/Day 10(22-09-2026).md",
+                "file": "Personal Memory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 10(22-09-2026)"
+              "title": "Personal Memory"
             }
           },
           {
@@ -257,8 +257,9 @@
   },
   "active": "ad7b7e7888cd5932",
   "lastOpenFiles": [
-    "Personal_Journal/Day 9(19-09-2026).md",
     "Personal_Journal/Day 10(22-09-2026).md",
+    "Personal Memory.md",
+    "Personal_Journal/Day 9(19-09-2026).md",
     "Personal_Journal/Day 8(21-08-26).md",
     "Personal_Journal/Day 4 (12-08-26).md",
     "Personal_Journal/Day 1(08-08-2026).md",
@@ -284,7 +285,6 @@
     "New Concepts/Testing Automation.md",
     "New Concepts/CI-CD pipeline.md",
     "New Concepts/Agile Method.md",
-    "Programming Languages/GitHub.md",
     "New Concept for understand Speaking Languages",
     "Speaking Language/English",
     "Speaking Language",
