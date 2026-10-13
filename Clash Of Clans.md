@@ -17,92 +17,387 @@ Adopt the lens of a **Meta Strategist** (adapting pro-level trends), a **Theory 
 ## User Context: Current Account Status
 
 ## My account stats
+# Clash of Clans Account Stats
 
-**Troops**
-*   Hog Rider (8)
-*   Minion (7)
-*   Valkyrie (7)
-*   Ice Golem (5)
-*   Golem (4)
-*   Lava Hound (4)
-*   Witch (3)
-*   Bowler (2)
-*   Headhunter (2)
+## Player Overview
+* **Town Hall Level:** 13
+* **Builder Hall Level:** 7
+* **OTTO Outpost Level:** 3
+* **Available Gems:** 7,143
 
-**Spells**
-*   Freeze (6)
-*   Poison (5)
-*   Bat Spell (5)
-*   Earthquake (3)
-*   Haste (3)
-*   Skeleton Spell (3)
-*   Clone (3)
-*   Invisibility (3)
+## Heroes & Equipments
+* **Grand Warden:** Level 38
+  * **Equipments:**
+    * Eternal Tome: Level 12
+    * Life Gem: Level 9
+    * Rage Gem: Level 8
+* **Minion Prince:** Level 40
+  * **Equipments:**
+    * Henchman Puppet: Level 1
+    * Metal Pants: Level 1
+    * Dark Orb: Level 1
+    * Noble Iron: Level 1
+* **Archer Queen:** Level 64
+  * **Equipments:**
+    * Archer Puppet: Level 7
+    * Invisibility Vial: Level 11
+    * Giant Arrow: Level 13
+    * Frozen Arrow: Level 12
+    * Healer Puppet: Level 10
+* **Barbarian King:** Level 59
+  * **Equipments:**
+    * Barbarian Puppet: Level 6
+    * Earthquake Boots: Level 4
+    * Giant Gauntlet: Level 12
+    * Snake Bracelet: Level 12
+    * Rage Vial: Level 8
+    * Vampstache: Level 5
+    * Spiky Ball: Level 18
+* **Royal Champion:** Not Unlocked
 
-**Siege Machines**
-*   Siege Barracks (1)
-*   Stone Slammer (1)
-*   Battle Blimp (1)
-*   Flame Flinger (1)
+## Troops, Spells & Siege Machines
+* **Elixir Troops:**
+  * Barbarian: Level 9
+  * Archer: Level 8
+  * Giant: Level 9
+  * Goblin: Level 8
+  * Wall Breaker: Level 7
+  * Balloon: Level 8
+  * Wizard: Level 9
+  * Healer: Level 5
+  * Dragon: Level 7
+  * P.E.K.K.A: Level 8
+  * Baby Dragon: Level 6
+  * Miner: Level 6
+  * Electro Dragon: Level 3
+  * Yeti: Level 2
+  * Dragon Rider: Not Unlocked
+  * Electro Titan: Not Unlocked
+  * Root Rider: Not Unlocked
+  * Thrower: Not Unlocked
+  * Meteor Golem: Not Unlocked
+* **Dark Elixir Troops:**
+  * Minion: Level 7
+  * Hog Rider: Level 8
+  * Valkyrie: Level 7
+  * Golem: Level 4
+  * Witch: Level 4
+  * Lava Hound: Level 5
+  * Bowler: Level 3
+  * Ice Golem: Level 5
+  * Headhunter: Level 2
+  * Apprentice Warden: Not Unlocked
+  * Druid: Not Unlocked
+  * Furnace: Not Unlocked
+  * Ruin Witch (Ruin Knight): Not Unlocked
+* **Super Troops:**
+  * Status: None Unlocked
+* **Spells:**
+  * Lightning Spell: Level 9
+  * Healing Spell: Level 7
+  * Rage Spell: Level 6
+  * Jump Spell: Level 3
+  * Freeze Spell: Level 6
+  * Clone Spell: Level 5
+  * Invisibility Spell: Level 3
+  * Poison Spell: Level 6
+  * Earthquake Spell: Level 3
+  * Haste Spell: Level 5
+  * Skeleton Spell: Level 4 (Upgrading)
+  * Bat Spell: Level 5
+  * Overgrowth Spell: Level 2
+* **Siege Machines:**
+  * Wall Wrecker: Level 1
+  * Battle Blimp: Level 1
+  * Stone Slammer: Level 3
+  * Siege Barracks: Not Unlocked
+  * Log Launcher: Not Unlocked
+  * Flame Flinger: Not Unlocked
+  * Battle Drill: Not Unlocked
 
-**Hero Equipment**
-*   Life Gem (9)
-*   Eternal Tome (Unlocked)
-*   Rage Gem (Unlocked)
-### Heroes
-*   **Archer Queen:** Level 62
-*   **Barbarian King:** Level 57
-*   **Minion Prince:** Level 40 *(Private Server/Custom Hero)*
-*   **Grand Warden:** Level 36
-*   **Royal Champion:** Locked
+## Defenses & Buildings
+* **Town Hall Defenses & Buildings:**
+  * **Core Defenses:**
+    * **Cannons:** Level 17 (5x), Level 17 Gearing Up (1x), Level 18 (1x)
+    * **Archer Towers:** Level 17 (7x), Level 17 Gearing Up (1x)
+    * **Air Defenses:** Level 10 (4x)
+    * **Wizard Towers:** Level 11 (4x)
+    * **Mortars:** Level 12 (4x)
+    * **X-Bows:** Level 6 (4x)
+    * **Inferno Towers:** Level 6 (3x)
+    * **Air Sweepers:** Level 7 (2x)
+    * **Bomb Towers:** Level 7 (2x)
+    * **Hidden Teslas:** Level 10 (5x)
+    * **Eagle Artillery:** Level 3 (1x)
+    * **Clan Castle:** Level 8 (1x)
+  * **Buildings & Production:** Workshop Level 3, Hero Hall Level 6, Blacksmith Level 5, Laboratory Level 10, Barracks Level 14, Dark Barracks Level 9, Spell Factory Level 6, Dark Spell Factory Level 6, Army Camps Level 10 (4x)
+  * **Resources:** Gold Mine Level 15 (7x), Elixir Collector Level 15 (7x), Dark Elixir Collector Level 9 (3x), Gold Storage Level 13 (3x), Gold Storage Level 14 (1x), Elixir Storage Level 13 (3x), Elixir Storage Level 14 (1x), Dark Elixir Storage Level 7
+  * **Traps & Walls:**
+    * **Traps:** 
+      * Spring Trap: Level 1 (1x), Level 5 (4x), Level 6 (1x), Level 7 (3x)
+      * Air Bomb: Level 6 (6x)
+      * Seeking Air Mine: Level 1 (1x), Level 3 (6x)
+      * Bomb: Level 1 (1x), Level 8 (6x)
+      * Giant Bomb: Level 5 (6x)
+      * Skeleton Trap: Level 4 (3x)
+      * Tornado Trap: Level 3 (1x)
+    * **Walls:** Level 11 (291x), Level 12 (9x)
+* **Builder Base & OTTO Outpost Defenses:**
+  * **OTTO Outpost Breakdown:**
+    * **Cannons:** Level 6 (1x), Double Cannon Level 6 (1x)
+    * **Archer Tower:** Level 6 (1x)
+    * **Firecrackers:** Level 5 (1x), Level 6 (1x)
+    * **Hidden Tesla:** Level 5 (1x), Level 6 (1x)
+    * **Traps:** Spring Trap Level 3 (3x), Push Trap Level 7 (1x)
+    * **Resources & Army:** Gold Mine Level 7 (2x), Elixir Collector Level 7 (1x), Gold Storage Level 6 (1x), Elixir Storage Level 6 (1x), Army Camp, Reinforcement Camp, Healing Hut Level 2 (1x)
+    * **Walls:** Level 6 (1x), Level 4 (7x), Level 3 (15x), Level 1 (18x)
+  * **Builder Hall Defenses & Buildings:**
+    * **Defenses:** Cannons Level 6 (2x), Double Cannon Level 6 (1x), Archer Tower Level 6 (2x), Hidden Tesla Level 6 (1x), Multi Mortar Level 6 (1x), Crusher Level 6 (2x), Roaster Level 6 (1x), Air Bombs Level 6 (1x), Firecrackers Level 6 (1x)
+    * **Traps:** Spring Trap Level 3 (1x), Mega Mine Level 6 (1x), Mega Mine Level 7 (1x)
+    * **Army & Resources:** Star Laboratory Level 6, Builder Barracks Level 9, Clock Tower Level 7, Gem Mine Level 6, Gold Mine Level 7 (4x), Elixir Collector Level 7 (1x), Gold Storage Level 6 (1x), Elixir Storage Level 6 (1x), Army Camp (4x)
+    * **Walls:** Level 6 (3x), Level 5 (6x), Level 4 (21x), Level 3 (47x), Level 1 (21x)
 
-### Hero Equipment (Detailed)
-*   **Barbarian King:**
-    *   Giant Gauntlet (14)
-    *   Spiky Ball (12)
-    *   Rage Vial (12)
-    *   Earthquake Boots (8)
-    *   Barbarian Puppet (6)
-    *   Vampstache (4)
-*   **Archer Queen:**
-    *   Invisibility Vial (13)
-    *   Frozen Arrow (12)
-    *   Archer Puppet (7)
-*   **Grand Warden:**
-    *   Eternal Tome (12)
-    *   Healing Tome (10)
-    *   Life Gem (8)
-    *   Rage Gem (6)
-*   **Minion Prince:**
-    *   Henchmen Puppet (1)
-    *   Dark Orb (1)
+## Player Overview
+* **Town Hall Level:** 13
+* **Builder Hall Level:** 7
+* **OTTO Outpost Level:** 3
 
-### Troop & Building Updates (Verified)
-*   **Balloon:** 9
-*   **Wizard:** 9
-*   **P.E.K.K.A:** 8
-*   **Dragon:** 7
-*   **Wall Breaker:** 7
-*   **Baby Dragon:** 6
-*   **Miner:** 6
-*   **Witch:** 5 *(Higher than previous scan)*
-*   **Lava Hound:** 5 *(Higher than previous scan)*
-*   **Bowler:** 4 *(Higher than previous scan)*
-*   **Key Defenses (In Inventory):** Monolith (1), Spell Tower (1), Scattershot (3), Eagle Artillery (3).
-### Building & Defense Levels (Inventory)
-*   **Town Hall Weapon:** Giga Inferno (Level 5) *Max for TH13*
-*   **Core Defenses:**
-    *   Eagle Artillery: 2x Level 3
-    *   Scattershot: 2x Level 1
-    *   Inferno Tower: 2x Level 7 (Multi/Single switchable)
-    *   X-Bow: 4x Level 6
-*   **Key Support Buildings:**
-    *   Clan Castle: Level 9 (45 Housing Space)
-    *   Army Camps: 4x Level 10 (Max for TH12, needs upgrade for TH13 space)
-    *   Laboratory: Level 11
-    *   Spell Factory: Level 6
-*   **Resource & Utility:**
-    *   Dark Elixir Storage: Level 8 (280k capacity)
-    *   Gold/Elixir Storages: Level 13/14 mixed
-    *   Grand Warden Altar: Level 1 (Note: Hero level is higher, verify altar placement)
+## Heroes & Equipments
+* **Grand Warden:** Level 38
+  * **Equipments:**
+    * Eternal Tome: Level 12
+    * Life Gem: Level 9
+    * Rage Gem: Level 8
+* **Minion Prince:** Level 40
+  * **Equipments:**
+    * Henchman Puppet: Level 1
+    * Metal Pants: Level 1
+    * Dark Orb: Level 1
+    * Noble Iron: Level 1
+* **Archer Queen:** Level 64
+  * **Equipments:**
+    * Archer Puppet: Level 7
+    * Invisibility Vial: Level 11
+    * Giant Arrow: Level 13
+    * Frozen Arrow: Level 12
+    * Healer Puppet: Level 10
+* **Barbarian King:** Level 59
+  * **Equipments:**
+    * Barbarian Puppet: Level 6
+    * Earthquake Boots: Level 4
+    * Giant Gauntlet: Level 12
+    * Snake Bracelet: Level 12
+    * Rage Vial: Level 8
+    * Vampstache: Level 5
+    * Spiky Ball: Level 18
+* **Royal Champion:** Not Unlocked
 
+## Troops, Spells & Siege Machines
+* **Elixir Troops:**
+  * Barbarian: Level 9
+  * Archer: Level 8
+  * Giant: Level 9
+  * Goblin: Level 8
+  * Wall Breaker: Level 7
+  * Balloon: Level 8
+  * Wizard: Level 9
+  * Healer: Level 5
+  * Dragon: Level 7
+  * P.E.K.K.A: Level 8
+  * Baby Dragon: Level 6
+  * Miner: Level 6
+  * Electro Dragon: Level 3
+  * Yeti: Level 2
+  * Dragon Rider: Not Unlocked
+  * Electro Titan: Not Unlocked
+  * Root Rider: Not Unlocked
+  * Thrower: Not Unlocked
+  * Meteor Golem: Not Unlocked
+* **Dark Elixir Troops:**
+  * Minion: Level 7
+  * Hog Rider: Level 8
+  * Valkyrie: Level 7
+  * Golem: Level 4
+  * Witch: Level 4
+  * Lava Hound: Level 5
+  * Bowler: Level 3
+  * Ice Golem: Level 5
+  * Headhunter: Level 2
+  * Apprentice Warden: Not Unlocked
+  * Druid: Not Unlocked
+  * Furnace: Not Unlocked
+  * Ruin Witch (Ruin Knight): Not Unlocked
+* **Spells:**
+  * Lightning Spell: Level 9
+  * Healing Spell: Level 7
+  * Rage Spell: Level 6
+  * Jump Spell: Level 3
+  * Freeze Spell: Level 6
+  * Clone Spell: Level 5
+  * Invisibility Spell: Level 3
+  * Poison Spell: Level 6
+  * Earthquake Spell: Level 3
+  * Haste Spell: Level 5
+  * Skeleton Spell: Level 4 (Upgrading)
+  * Bat Spell: Level 5
+  * Overgrowth Spell: Level 2
+* **Siege Machines:**
+  * Wall Wrecker: Level 1
+  * Battle Blimp: Level 1
+  * Stone Slammer: Level 3
+
+## Defenses & Buildings
+* **Town Hall Defenses & Buildings:**
+  * **Core Defenses:**
+    * **Cannons:** Level 17 (5x), Level 17 Gearing Up (1x), Level 18 (1x)
+    * **Archer Towers:** Level 17 (7x), Level 17 Gearing Up (1x)
+    * **Air Defenses:** Level 10 (4x)
+    * **Wizard Towers:** Level 11 (4x)
+    * **Mortars:** Level 12 (4x)
+    * **X-Bows:** Level 6 (4x)
+    * **Inferno Towers:** Level 6 (3x)
+    * **Air Sweepers:** Level 7 (2x)
+    * **Bomb Towers:** Level 7 (2x)
+    * **Hidden Teslas:** Level 10 (5x)
+    * **Eagle Artillery:** Level 3 (1x)
+    * **Clan Castle:** Level 8 (1x)
+  * **Buildings & Production:** Workshop Level 3, Hero Hall Level 6, Blacksmith Level 5, Laboratory Level 10, Barracks Level 14, Dark Barracks Level 9, Spell Factory Level 6, Dark Spell Factory Level 6, Army Camps Level 10 (4x)
+  * **Resources:** Gold Mine Level 15 (7x), Elixir Collector Level 15 (7x), Dark Elixir Collector Level 9 (3x), Gold Storage Level 13 (3x), Gold Storage Level 14 (1x), Elixir Storage Level 13 (3x), Elixir Storage Level 14 (1x), Dark Elixir Storage Level 7
+  * **Traps & Walls:**
+    * **Traps:** 
+      * Spring Trap: Level 1 (1x), Level 5 (4x), Level 6 (1x), Level 7 (3x)
+      * Air Bomb: Level 6 (6x)
+      * Seeking Air Mine: Level 1 (1x), Level 3 (6x)
+      * Bomb: Level 1 (1x), Level 8 (6x)
+      * Giant Bomb: Level 5 (6x)
+      * Skeleton Trap: Level 4 (3x)
+      * Tornado Trap: Level 3 (1x)
+    * **Walls:** Level 11 (291x), Level 12 (9x)
+* **Builder Base & OTTO Outpost Defenses:**
+  * **OTTO Outpost Breakdown:**
+    * **Cannons:** Level 6 (1x), Double Cannon Level 6 (1x)
+    * **Archer Tower:** Level 6 (1x)
+    * **Firecrackers:** Level 5 (1x), Level 6 (1x)
+    * **Hidden Tesla:** Level 5 (1x), Level 6 (1x)
+    * **Traps:** Spring Trap Level 3 (3x), Push Trap Level 7 (1x)
+    * **Resources & Army:** Gold Mine Level 7 (2x), Elixir Collector Level 7 (1x), Gold Storage Level 6 (1x), Elixir Storage Level 6 (1x), Army Camp, Reinforcement Camp, Healing Hut Level 2 (1x)
+    * **Walls:** Level 6 (1x), Level 4 (7x), Level 3 (15x), Level 1 (18x)
+  * **Builder Hall Defenses & Buildings:**
+    * **Defenses:** Cannons Level 6 (2x), Double Cannon Level 6 (1x), Archer Tower Level 6 (2x), Hidden Tesla Level 6 (1x), Multi Mortar Level 6 (1x), Crusher Level 6 (2x), Roaster Level 6 (1x), Air Bombs Level 6 (1x), Firecrackers Level 6 (1x)
+    * **Traps:** Spring Trap Level 3 (1x), Mega Mine Level 6 (1x), Mega Mine Level 7 (1x)
+    * **Army & Resources:** Star Laboratory Level 6, Builder Barracks Level 9, Clock Tower Level 7, Gem Mine Level 6, Gold Mine Level 7 (4x), Elixir Collector Level 7 (1x), Gold Storage Level 6 (1x), Elixir Storage Level 6 (1x), Army Camp (4x)
+    * **Walls:** Level 6 (3x), Level 5 (6x), Level 4 (21x), Level 3 (47x), Level 1 (21x)
+
+## Player Overview
+* **Town Hall Level:** 13
+* **Builder Hall Level:** 7
+* **OTTO Outpost Level:** 3
+
+## Heroes & Equipments
+* **Grand Warden:** Level 38
+  * **Equipments:**
+    * Eternal Tome: Level 12
+    * Life Gem: Level 9
+    * Rage Gem: Level 8
+* **Minion Prince:** Level 40
+  * **Equipments:**
+    * Henchman Puppet: Level 1
+    * Metal Pants: Level 1
+    * Dark Orb: Level 1
+    * Noble Iron: Level 1
+* **Archer Queen:** Level 64
+  * **Equipments:**
+    * Archer Puppet: Level 7
+    * Invisibility Vial: Level 11
+    * Giant Arrow: Level 13
+    * Frozen Arrow: Level 12
+    * Healer Puppet: Level 10
+* **Barbarian King:** Level 59
+  * **Equipments:**
+    * Barbarian Puppet: Level 6
+    * Earthquake Boots: Level 4
+    * Giant Gauntlet: Level 12
+    * Snake Bracelet: Level 12
+    * Rage Vial: Level 8
+    * Vampstache: Level 5
+    * Spiky Ball: Level 18
+* **Royal Champion:** Not Unlocked
+
+## Troops & Spells
+* **Elixir Troops:**
+  * Barbarian: Level 9
+  * Archer: Level 8
+  * Giant: Level 9
+  * Goblin: Level 8
+  * Wall Breaker: Level 7
+  * Balloon: Level 8
+  * Wizard: Level 9
+  * Healer: Level 5
+  * Dragon: Level 7
+  * P.E.K.K.A: Level 8
+  * Baby Dragon: Level 6
+  * Miner: Level 6
+  * Electro Dragon: Level 3
+  * Yeti: Level 2
+  * Dragon Rider: Not Unlocked
+  * Electro Titan: Not Unlocked
+  * Root Rider: Not Unlocked
+  * Thrower: Not Unlocked
+  * Meteor Golem: Not Unlocked
+* **Dark Elixir Troops:**
+  * Minion: Level 7
+  * Hog Rider: Level 8
+  * Valkyrie: Level 7
+  * Golem: Level 4
+  * Witch: Level 4
+  * Lava Hound: Level 5
+  * Bowler: Level 3
+  * Ice Golem: Level 5
+  * Headhunter: Level 2
+  * Apprentice Warden: Not Unlocked
+  * Druid: Not Unlocked
+  * Furnace: Not Unlocked
+  * Ruin Witch (Ruin Knight): Not Unlocked
+* **Spells:** [Pending]
+
+## Defenses & Buildings
+* **Town Hall Defenses & Buildings:**
+  * **Core Defenses:**
+    * **Cannons:** Level 17 (5x), Level 17 Gearing Up (1x), Level 18 (1x)
+    * **Archer Towers:** Level 17 (7x), Level 17 Gearing Up (1x)
+    * **Air Defenses:** Level 10 (4x)
+    * **Wizard Towers:** Level 11 (4x)
+    * **Mortars:** Level 12 (4x)
+    * **X-Bows:** Level 6 (4x)
+    * **Inferno Towers:** Level 6 (3x)
+    * **Air Sweepers:** Level 7 (2x)
+    * **Bomb Towers:** Level 7 (2x)
+    * **Hidden Teslas:** Level 10 (5x)
+    * **Eagle Artillery:** Level 3 (1x)
+    * **Clan Castle:** Level 8 (1x)
+  * **Buildings & Production:** Workshop Level 3, Hero Hall Level 6, Blacksmith Level 5, Laboratory Level 10, Barracks Level 14, Dark Barracks Level 9, Spell Factory Level 6, Dark Spell Factory Level 6, Army Camps Level 10 (4x)
+  * **Resources:** Gold Mine Level 15 (7x), Elixir Collector Level 15 (7x), Dark Elixir Collector Level 9 (3x), Gold Storage Level 13 (3x), Gold Storage Level 14 (1x), Elixir Storage Level 13 (3x), Elixir Storage Level 14 (1x), Dark Elixir Storage Level 7
+  * **Traps & Walls:**
+    * **Traps:** 
+      * Spring Trap: Level 1 (1x), Level 5 (4x), Level 6 (1x), Level 7 (3x)
+      * Air Bomb: Level 6 (6x)
+      * Seeking Air Mine: Level 1 (1x), Level 3 (6x)
+      * Bomb: Level 1 (1x), Level 8 (6x)
+      * Giant Bomb: Level 5 (6x)
+      * Skeleton Trap: Level 4 (3x)
+      * Tornado Trap: Level 3 (1x)
+    * **Walls:** Level 11 (291x), Level 12 (9x)
+* **Builder Base & OTTO Outpost Defenses:**
+  * **OTTO Outpost Breakdown:**
+    * **Cannons:** Level 6 (1x), Double Cannon Level 6 (1x)
+    * **Archer Tower:** Level 6 (1x)
+    * **Firecrackers:** Level 5 (1x), Level 6 (1x)
+    * **Hidden Tesla:** Level 5 (1x), Level 6 (1x)
+    * **Traps:** Spring Trap Level 3 (3x), Push Trap Level 7 (1x)
+    * **Resources & Army:** Gold Mine Level 7 (2x), Elixir Collector Level 7 (1x), Gold Storage Level 6 (1x), Elixir Storage Level 6 (1x), Army Camp, Reinforcement Camp, Healing Hut Level 2 (1x)
+    * **Walls:** Level 6 (1x), Level 4 (7x), Level 3 (15x), Level 1 (18x)
+  * **Builder Hall Defenses & Buildings:**
+    * **Defenses:** Cannons Level 6 (2x), Double Cannon Level 6 (1x), Archer Tower Level 6 (2x), Hidden Tesla Level 6 (1x), Multi Mortar Level 6 (1x), Crusher Level 6 (2x), Roaster Level 6 (1x), Air Bombs Level 6 (1x), Firecrackers Level 6 (1x)
+    * **Traps:** Spring Trap Level 3 (1x), Mega Mine Level 6 (1x), Mega Mine Level 7 (1x)
+    * **Army & Resources:** Star Laboratory Level 6, Builder Barracks Level 9, Clock Tower Level 7, Gem Mine Level 6, Gold Mine Level 7 (4x), Elixir Collector Level 7 (1x), Gold Storage Level 6 (1x), Elixir Storage Level 6 (1x), Army Camp (4x)
+    * **Walls:** Level 6 (3x), Level 5 (6x), Level 4 (21x), Level 3 (47x), Level 1 (21x)
