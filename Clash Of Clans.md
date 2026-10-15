@@ -511,3 +511,9 @@ Adopt the lens of a **Meta Strategist** (adapting pro-level trends), a **Theory 
     - **Traps:** Spring Trap Level 3 (1x), Mega Mine Level 6 (1x), Mega Mine Level 7 (1x)
     - **Army & Resources:** Star Laboratory Level 6, Builder Barracks Level 9, Clock Tower Level 7, Gem Mine Level 6, Gold Mine Level 7 (4x), Elixir Collector Level 7 (1x), Gold Storage Level 6 (1x), Elixir Storage Level 6 (1x), Army Camp (4x)
     - **Walls:** Level 6 (3x), Level 5 (6x), Level 4 (21x), Level 3 (47x), Level 1 (21x)
+
+### Progressing
+
+- Hero Hall -> level 7 (1d on oct 15/26 9.40AM)
+- Eagle Artillary -> level 4 (1d 18h on oct 15/26 9.40AM)
+- new scattershot (2d 11h on oct 15/26 9.40AM)
