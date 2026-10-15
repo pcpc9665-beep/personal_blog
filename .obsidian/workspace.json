@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#3dicons",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -136,8 +136,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,7 +254,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a43454b7ffb558f",
+  "active": "9a25392b66fdd19e",
   "lastOpenFiles": [
     "UseFul Websites/Jobs.md",
     "UseFul Websites/Developing helping websites.md",
