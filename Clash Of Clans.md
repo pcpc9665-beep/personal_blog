@@ -517,3 +517,5 @@ Adopt the lens of a **Meta Strategist** (adapting pro-level trends), a **Theory 
 - Hero Hall -> level 7 (1d on oct 15/26 9.40AM)
 - Eagle Artillary -> level 4 (1d 18h on oct 15/26 9.40AM)
 - new scattershot (2d 11h on oct 15/26 9.40AM)
+
+reaseach is free
