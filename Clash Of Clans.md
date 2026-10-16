@@ -63,6 +63,8 @@ Adopt the lens of a **Meta Strategist** (adapting pro-level trends), a **Theory 
 - **Elixir Troops:**
   - Barbarian: Level 9
   - Archer: Level 8
+  - Lavaloon Level 8
+  - Totem Thrower Level 13 
   - Giant: Level 9
   - Goblin: Level 8
   - Wall Breaker: Level 7
