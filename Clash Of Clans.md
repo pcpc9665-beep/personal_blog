@@ -334,7 +334,7 @@ Adopt the lens of a **Meta Strategist** (adapting pro-level trends), a **Theory 
     - **Clan Castle:** Level 8 (1x)
   - **Buildings & Production:**
     Workshop Level 3,
-    Hero Hall Level 6,
+    Hero Hall Level 7,
     Blacksmith Level 5,
     Laboratory Level 10,
     Barracks Level 14,
@@ -518,4 +518,4 @@ Adopt the lens of a **Meta Strategist** (adapting pro-level trends), a **Theory 
 - new scattershot (2d 11h on oct 15/26 9.40AM)
 
 reaseach is free
-3 
+3 builders available
