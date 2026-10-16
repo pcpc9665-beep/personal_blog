@@ -339,8 +339,8 @@ Adopt the lens of a **Meta Strategist** (adapting pro-level trends), a **Theory 
     - **Eagle Artillery:** Level 3 (1x)
     - **Clan Castle:** Level 8 (1x)
   - **Buildings & Production:**
-    Workshop Level 3,
-    Hero Hall Level 7,
+	- Workshop Level 3,
+	Hero Hall Level 7,
     Blacksmith Level 5,
     Laboratory Level 10,
     Barracks Level 14,
