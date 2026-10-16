@@ -56,7 +56,9 @@ Adopt the lens of a **Meta Strategist** (adapting pro-level trends), a **Theory 
     - Rage Vial: Level 8
     - Vampstache: Level 5
     - Spiky Ball: Level 18
-- **Royal Champion:**  Unlocked
+- **Royal Champion:**  level 1
+	- Equipments:
+		- 
 
 ## Troops, Spells & Siege Machines
 
