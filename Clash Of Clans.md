@@ -58,7 +58,9 @@ Adopt the lens of a **Meta Strategist** (adapting pro-level trends), a **Theory 
     - Spiky Ball: Level 18
 - **Royal Champion:**  level 1
 	- Equipments:
-		- 
+		- Seeking Shield Level 1
+		- Royal Gem Level 1
+		- Rocket Spear level 12
 
 ## Troops, Spells & Siege Machines
 
