@@ -56,7 +56,7 @@ Adopt the lens of a **Meta Strategist** (adapting pro-level trends), a **Theory 
     - Rage Vial: Level 8
     - Vampstache: Level 5
     - Spiky Ball: Level 18
-- **Royal Champion:** Not Unlocked
+- **Royal Champion:**  Unlocked
 
 ## Troops, Spells & Siege Machines
 
@@ -514,8 +514,8 @@ Adopt the lens of a **Meta Strategist** (adapting pro-level trends), a **Theory 
 
 ### Progressing
 
-- Hero Hall -> level 7 (1d on oct 15/26 9.40AM)
 - Eagle Artillary -> level 4 (1d 18h on oct 15/26 9.40AM)
 - new scattershot (2d 11h on oct 15/26 9.40AM)
 
 reaseach is free
+3 

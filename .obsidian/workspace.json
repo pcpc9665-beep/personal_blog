@@ -53,10 +53,14 @@
             "id": "ad7b7e7888cd5932",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Clash Of Clans.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clash Of Clans"
             }
           },
           {
@@ -250,7 +254,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f0d3060dc3cba7c",
+  "active": "ad7b7e7888cd5932",
   "lastOpenFiles": [
     "UseFul Websites/Developing helping websites.md",
     "UseFul Websites/Jobs.md",
