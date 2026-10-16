@@ -522,6 +522,8 @@ Adopt the lens of a **Meta Strategist** (adapting pro-level trends), a **Theory 
 
 - Eagle Artillary -> level 4 (1d 18h on oct 15/26 9.40AM)
 - new scattershot (2d 11h on oct 15/26 9.40AM)
+- Royal champion (1h 46m on oct 16/26 11.05Am)
+- Workshop (1d 23h on oct 16/26 11.05Am)
+- Scatter shot(2d 11h on oct 16/26 11.05Am)
 
-reaseach is free
-3 builders available
+Reasearch is free (also look labarotary level)
