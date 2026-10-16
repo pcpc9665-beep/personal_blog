@@ -25,7 +25,7 @@ Adopt the lens of a **Meta Strategist** (adapting pro-level trends), a **Theory 
 - **Town Hall Level:** 13
 - **Builder Hall Level:** 7
 - **OTTO Outpost Level:** 3
-- **Available Gems:** 7,163
+- **Available Gems:** 7,170
 
 ## Heroes & Equipments
 
