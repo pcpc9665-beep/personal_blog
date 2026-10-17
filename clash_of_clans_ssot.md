@@ -14,8 +14,8 @@ Act as an elite Strategic Clash of Clans Player and Analyst. Your advice must pr
 # Clash of Clans Single Source of Truth (SSOT)
 
 ## ⏳ Active Builder & Lab Ledger (As of Oct 16, 11:05 AM)
-- **Builder 1:** free
-- **Builder 2:** Laboratary to Lv 11 (Finishes )
+- **Builder 1:** Royal Champion to Lv 3 (Finishes **Saturday, Oct 17, 2026, at 11:10 PM**.)
+- **Builder 2:** Laboratary to Lv 11 (Finishes **Tuesday, Oct 20, 2026, at 06:10 PM**.)
 - **Builder 3:** Scattershot (New) to Lv 1 (Finishes Oct 17, 8:40 PM)
 - **Builder 4:** Workshop to Lv 4 (Finishes Oct 18, 10:05 AM)
 - **Builder 5:** Scattershot (New) to Lv 1 (Finishes Oct 18, 10:05 AM)
