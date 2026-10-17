@@ -25,7 +25,7 @@ Act as an elite Strategic Clash of Clans Player and Analyst. Your advice must pr
 - **Town Hall Level:** 13
 - **Builder Hall Level:** 7
 - **OTTO Outpost Level:** 3
-- **Available Gems:** 7,170
+- **Available Gems:** 7,180
 
 ## 👑 Heroes & Equipment Status
 - **Archer Queen (Lv 64):** Giant Arrow (13), Invisibility Vial (11), Healer Puppet (10), Archer Puppet (7)
@@ -49,7 +49,7 @@ Act as an elite Strategic Clash of Clans Player and Analyst. Your advice must pr
 
 ### Spells Inventory
 - **Maxed/High Meta:** Lightning (9), Poison (6), Haste (5), Bat (5)
-- **Mid Level:** Healing (7), Rage (6), Freeze (6), Clone (5), Skeleton (4 - Upgrading)
+- **Mid Level:** Healing (7), Rage (6), Freeze (6), Clone (5), Skeleton (5)
 - **Low Level:** Jump (3), Invisibility (3), Earthquake (3), Overgrowth (2)
 
 ### Siege Machines
