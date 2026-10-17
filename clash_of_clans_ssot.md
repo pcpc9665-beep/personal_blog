@@ -15,7 +15,7 @@ Act as an elite Strategic Clash of Clans Player and Analyst. Your advice must pr
 
 ## ⏳ Active Builder & Lab Ledger (As of Oct 16, 11:05 AM)
 - **Builder 1:** free
-- **Builder 2:** Eagle Artillery to Lv 4 (Finishes Oct 17, 3:40 AM)
+- **Builder 2:** free
 - **Builder 3:** Scattershot (New) to Lv 1 (Finishes Oct 17, 8:40 PM)
 - **Builder 4:** Workshop to Lv 4 (Finishes Oct 18, 10:05 AM)
 - **Builder 5:** Scattershot (New) to Lv 1 (Finishes Oct 18, 10:05 AM)
