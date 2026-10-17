@@ -14,7 +14,7 @@ Act as an elite Strategic Clash of Clans Player and Analyst. Your advice must pr
 # Clash of Clans Single Source of Truth (SSOT)
 
 ## ⏳ Active Builder & Lab Ledger (As of Oct 16, 11:05 AM)
-- **Builder 1:** Royal Champion to Lv 1 (Finishes Oct 16, 12:51 PM) -> *Next: Level up/Deploy*
+- **Builder 1:** free
 - **Builder 2:** Eagle Artillery to Lv 4 (Finishes Oct 17, 3:40 AM)
 - **Builder 3:** Scattershot (New) to Lv 1 (Finishes Oct 17, 8:40 PM)
 - **Builder 4:** Workshop to Lv 4 (Finishes Oct 18, 10:05 AM)
@@ -32,7 +32,7 @@ Act as an elite Strategic Clash of Clans Player and Analyst. Your advice must pr
 - **Barbarian King (Lv 59):** Spiky Ball (18), Giant Gauntlet (12), Snake Bracelet (12), Rage Vial (8), Vampstache (5), Earthquake Boots (4), Barbarian Puppet (6)
 - **Grand Warden (Lv 38):** Eternal Tome (12), Life Gem (9), Rage Gem (8)
 - **Minion Prince (Lv 40):** Henchman Puppet (1), Metal Pants (1), Dark Orb (1), Noble Iron (1)
-- **Royal Champion (Lv 1):** Rocket Spear (12), Seeking Shield (1), Royal Gem (1)
+- **Royal Champion (Lv 2):** Rocket Spear (12), Seeking Shield (1), Royal Gem (1)
 
 ## 🧪 Troops & Spells Inventory
 ### Elixir Troops
@@ -59,7 +59,7 @@ Act as an elite Strategic Clash of Clans Player and Analyst. Your advice must pr
 ---
 
 ## 🏰 Home Village Defenses & Buildings
-- **Core Defenses:** Eagle Artillery Lv 3 (Upgrading), Inferno Towers Lv 6 (3x), X-Bows Lv 6 (4x), Hidden Teslas Lv 10 (5x)
+- **Core Defenses:** Eagle Artillery Lv 4, Inferno Towers Lv 6 (3x), X-Bows Lv 6 (4x), Hidden Teslas Lv 10 (5x)
 - **Point Defenses:** Cannons Lv 17 (5x) / Lv 18 (1x), Archer Towers Lv 17 (7x), Gearing Up Cannon (1x) / Archer Tower (1x)
 - **Splash Defenses:** Air Defenses Lv 10 (4x), Wizard Towers Lv 11 (4x), Mortars Lv 12 (4x), Bomb Towers Lv 7 (2x), Air Sweepers Lv 7 (2x)
 - **Walls:** Level 11 (291x), Level 12 (9x) *(Heavy upgrade backlog)*
