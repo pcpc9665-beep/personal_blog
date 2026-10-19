@@ -63,7 +63,7 @@ Act as an elite Strategic Clash of Clans Player and Analyst. Your advice must pr
 - **Point Defenses:** Cannons Lv 17 (5x) / Lv 18 (1x), Archer Towers Lv 17 (7x), Gearing Up Cannon (1x) / Archer Tower (1x)
 - **Splash Defenses:** Air Defenses Lv 10 (4x), Wizard Towers Lv 11 (4x), Mortars Lv 12 (4x), Bomb Towers Lv 7 (2x), Air Sweepers Lv 7 (2x)
 - **Walls:** Level 11 (291x), Level 12 (9x) *(Heavy upgrade backlog)*
-- **Key Infrastructure:** Clan Castle Lv 8, Blacksmith Lv 5, Workshop Lv 3 (Upgrading), Hero Hall Lv 7, Army Camps Lv 10 (4x)
+- **Key Infrastructure:** Clan Castle Lv 8, Blacksmith Lv 5, Workshop Lv 4, Hero Hall Lv 7, Army Camps Lv 10 (4x)
 - **Resources:** Gold/Elixir Storages Lv 13 (3x) / Lv 14 (1x), Dark Elixir Storage Lv 7, Mines/Collectors maxed for level.
 
 ---

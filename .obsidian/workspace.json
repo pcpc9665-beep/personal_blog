@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lab",
+                "query": "workshop",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -136,8 +136,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -254,7 +253,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad7b7e7888cd5932",
+  "active": "9a25392b66fdd19e",
   "lastOpenFiles": [
     "pre_project_research_framework.md",
     "Clash Of Clans.md",
